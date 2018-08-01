@@ -1,0 +1,30 @@
+.itemButton {
+	margin-left: 10px;
+	border-radius: 10px;
+	font-size: 0.7em;
+	padding: 7px;
+	box-shadow: 1px 1px 1px #000;
+}
+
+.complete {
+	background: green;
+	color: white;
+}
+
+.remove {
+	background: red;
+}
+
+.itemContainer {
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+
+}
+
+li {
+	background: rgba(255,255,255,0.8);
+	padding: 5px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px #000;
+}

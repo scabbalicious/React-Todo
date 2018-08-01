@@ -1,0 +1,17 @@
+.doneButton {
+	margin-left: 20px;
+	margin-bottom: 10px;
+	font-size: 0.5em;
+	padding: 5px;
+	background: rgba(0,255,0,0.5);
+	color: white;
+}
+
+.deleteButton {
+	margin-left: 5px;
+	margin-bottom: 10px;
+	font-size: 0.5em;
+	padding: 5px;
+	background: rgba(255,0,0,0.5);
+	color: white;
+}

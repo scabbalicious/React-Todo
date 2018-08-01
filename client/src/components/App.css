@@ -1,0 +1,20 @@
+html{box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+li {
+	list-style-type: none;
+	font-size: 2em;
+	margin: 10px;
+}
+body {
+	background-image: url(https://i.imgur.com/dT8Lwf9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: sans-serif;
+}
+.grandeContainer {
+	margin: 0 auto;
+	width: 1000px;
+	text-align: center;
+
+}

@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "task": "take out trash",
+      "status": "incomplete",
+      "id": 1
+    },
+    {
+      "task": "pick up dry-cleaning",
+      "status": "incomplete",
+      "id": 2
+    },
+    {
+      "task": "go to dentist",
+      "status": "incomplete",
+      "id": 3
+    },
+    {
+      "task": "clean your pool",
+      "status": "incomplete",
+      "id": 4
+    },
+    {
+      "task": "get laundry",
+      "status": "incomplete",
+      "id": 5
+    }
+  ]
+}
