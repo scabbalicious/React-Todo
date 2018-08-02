@@ -6,10 +6,7 @@ import Item from './Item'
 
 class List extends Component {
 	
-	componentDidMount() {
-		getStuff()
-	}
-
+	
  render() {
    return (
    		<ul>

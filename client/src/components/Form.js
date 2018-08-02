@@ -22,11 +22,11 @@ class Form extends Component {
 
  render() {
    return (
-   	<div className="add Container">
+   	<div className="addContainer">
    			<form onSubmit={this.handleSubmit}>
    				<label>
-   					<span className="addText">Task:</span><input className="addField" type="text" 
-   							name="task" value={this.state.task} onChange={this.handleChange} />
+   					<span className="addText">Task:</span>
+   					<input className="addField" type="text" name="task" value={this.state.task} onChange={this.handleChange} />
    				</label>
    				<button type="submit" className="addButton">Add</button>
    			</form>

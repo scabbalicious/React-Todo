@@ -8,6 +8,7 @@
 
 .addContainer {
 	display: flex;
+	flex-direction: column;
 }
 
 .addField {
